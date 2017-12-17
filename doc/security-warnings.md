@@ -5,8 +5,8 @@ Security Audit
 --------------
 
 Zcash has been subjected to a formal third-party security review. For security
-announcements, audit results and other general security information, see
-https://z.cash/support/security.html
+announcements, audit results and other general security information
+
 
 x86-64 Linux Only
 -----------------------
@@ -96,15 +96,3 @@ The option `-debug=zrpc` covers logging of the z_* calls.  This will reveal info
 The option `-debug=zrpcunsafe` covers logging of sensitive information in z_* calls which you would only need for debugging and audit purposes.  For example, if you want to examine the memo field of a note being spent.
 
 Private spending keys for z addresses are never logged.
-
-Potentially-Missing Required Modifications
-------------------------------------------
-
-In addition to potential mistakes in code we added to Bitcoin Core, and
-potential mistakes in our modifications to Bitcoin Core, it is also possible
-that there were potential changes we were supposed to make to Bitcoin Core but
-didn't, either because we didn't even consider making those changes, or we ran
-out of time. We have brainstormed and documented a variety of such possibilities
-in [issue #826](https://github.com/zcash/zcash/issues/826), and believe that we
-have changed or done everything that was necessary for the 1.0.0 launch. Users
-may want to review this list themselves.

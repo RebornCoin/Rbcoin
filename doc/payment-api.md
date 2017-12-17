@@ -1,4 +1,4 @@
-# Zcash Payment API
+# RebornCoin Payment API
 
 ## Overview
 
