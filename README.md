@@ -33,8 +33,7 @@ height and can be explicitly disabled.
 Where do I begin?
 -----------------
 We have a guide for joining the main Rbcoin network:
-https://github.com/RebornCoin/Rbcoin/doc/1.0-User-Guide
-
+https://github.com/RebornCoin/Rbcoin/blob/master/doc/1.0-User-Guide.md
 
 Building
 --------
