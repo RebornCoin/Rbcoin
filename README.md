@@ -1,4 +1,4 @@
-Rbcoin 1.0.12
+Rbcoin 1.0
 =============
 
 What is Rbcoin?
@@ -6,8 +6,7 @@ What is Rbcoin?
 
 Based on Bitcoin's and Zcash's code, it intends to offer a far higher standard of privacy
 through a sophisticated zero-knowledge proving scheme that preserves
-confidentiality of transaction metadata. Technical details are available
-in our [Protocol Specification](https://github.com/zcash/zips/raw/master/protocol/protocol.pdf).
+confidentiality of transaction metadata.
 
 This software is the Rbcoin client. It downloads and stores the entire history
 of Rbcoin transactions; depending on the speed of your computer and network
@@ -33,7 +32,7 @@ height and can be explicitly disabled.
 
 Where do I begin?
 -----------------
-We have a guide for joining the main Zcash network:
+We have a guide for joining the main Rbcoin network:
 https://github.com/RebornCoin/Rbcoin/doc/1.0-User-Guide
 
 
